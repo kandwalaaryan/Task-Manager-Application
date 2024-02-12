@@ -1,7 +1,3 @@
-Certainly! Below is a sample README description for your Task Manager application that leverages React for the client-side and Django Rest Framework for the server-side. Feel free to adjust it according to your project's specifics or preferences:
-
----
-
 # Task Manager Application
 
 Welcome to our Task Manager application - a sleek and intuitive platform designed to help you manage your tasks efficiently. This application is built using React for the frontend, providing a dynamic and responsive user interface, and Django Rest Framework for the backend, ensuring robust and scalable server-side logic.
